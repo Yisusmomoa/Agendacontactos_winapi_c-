@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(84): warning C4101: 'hf': unreferenced local variable
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(301): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(318): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(538): warning C4101: 'hdc': unreferenced local variable
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(559): warning C4101: 'auxnombre': unreferenced local variable
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(1083): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(1351): warning C4060: switch statement contains no 'case' or 'default' labels
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(198): warning C4715: 'buscame2': not all control paths return a value
+c:\users\hp\source\repos\proyprogradelta\proyprogradelta\source.cpp(187): warning C4715: 'buscame': not all control paths return a value
+  ProyPrograDelta.vcxproj -> C:\Users\hp\source\repos\ProyPrograDelta\Debug\ProyPrograDelta.exe
